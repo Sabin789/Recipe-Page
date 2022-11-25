@@ -1,0 +1,47 @@
+.container{
+    text-align: center;
+    margin-left: 20em;
+    margin-right: 20em;
+}
+.red{
+    color:red;
+}
+.start{
+    text-align: start;
+}
+
+.logo{
+    height: 70px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  
+}
+#title{
+    margin-top: 0px;
+    text-align: center;
+    background-color: bisque;
+}
+.img-description{
+    color: grey;
+}
+
+a{
+    color:green;
+}
+
+.line{
+    background-color: aqua;
+    width: 100%;
+    height: 1px;
+}
+.line2{
+   border-left: 1px;
+   color: bisque;
+}
+.line3{
+    background-color: orange;
+    width:100%;
+    height: 1px;
+}
